@@ -15,8 +15,8 @@
 9. AIの回答は基本的に日本語で回答してください。
 
 [指定URL]
-    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.6/ja/core.md
-    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.6/ja/format.md
+    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/core.md
+    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/format.md
 
 これらのオブジェクト指向型汎用プロンプト用語定義を使って、以降の指示に従ってください。
 これ以降の「作る」はクラス設計ではなく **クラスを使ったインスタンス** を生成してください。
