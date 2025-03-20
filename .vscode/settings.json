@@ -1,0 +1,12 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[json][jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.embeddedLanguageFormatting": "auto",
+
+  "markdown.extension.toc.levels": "2..6",
+  "remark.requireConfig": true
+}
