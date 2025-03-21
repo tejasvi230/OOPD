@@ -446,7 +446,7 @@ This section describes how to operate various AI models using OOPD system instru
 
 To use OOPD on various AI platforms, you need to apply the contents of the system instruction file to the system instruction area of ​​the AI ​​model. The basic steps are as follows:
 
-  1. Copy the contents of [system_instructions.md](system_instructions.md) from the GitHub repository.
+  1. Copy the contents of [system_instructions.md](en/system_instructions.md) from the GitHub repository.
     - Clicking the "Raw" button makes it easier to copy because it displays the raw Markdown text.
   2. Paste it into the system instruction area of ​​the AI ​​platform you want to use.
     - For Google AI Studio: Paste it into the "System Instructions" section

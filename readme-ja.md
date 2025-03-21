@@ -445,7 +445,7 @@ OOPDのシステム指示を使って、様々なAIモデルで動作させる�
 
 OOPDを様々なAIプラットフォームで利用するには、システム指示ファイルの内容をAIモデルのシステム指示領域に適用する必要があります。以下は基本的な手順です:
 
-  1. GitHubリポジトリから [system_instructions.md](system_instructions.md) の内容をコピーします。
+  1. GitHubリポジトリから [system_instructions.md](ja/system_instructions.md) の内容をコピーします。
     - 「Raw」ボタンをクリックすると、マークダウンの生テキストが表示されるのでコピーしやすくなります。
   2. 利用したいAIプラットフォームのシステム指示領域に貼り付けます。
     - Google AI Studioの場合: 「System Instructions」セクションに貼り付け
