@@ -437,3 +437,34 @@ However, at this time, OOPD is still a developing technology, and the following 
 Further research and development is needed in the future in order to overcome these challenges and make OOPD a more practical technology.
 
 In the future, advances in AI models may lead to a future where prompt engineering itself is unnecessary. However, until then, OOPD can be an effective means of realizing smoother and more efficient communication between humans and AI. We hope that this article will help deepen the discussion on object-oriented prompt programming, and ultimately on new ways of interacting with AI.
+
+## 10. Usage
+
+This section describes how to operate various AI models using OOPD system instructions.
+
+### 10.1. How to Apply System Instructions
+
+To use OOPD on various AI platforms, you need to apply the contents of the system instruction file to the system instruction area of ​​the AI ​​model. The basic steps are as follows:
+
+  1. Copy the contents of [system_instructions.md](system_instructions.md) from the GitHub repository.
+    - Clicking the "Raw" button makes it easier to copy because it displays the raw Markdown text.
+  2. Paste it into the system instruction area of ​​the AI ​​platform you want to use.
+    - For Google AI Studio: Paste it into the "System Instructions" section
+    - Other AI platforms: Paste it into the system prompt or system instruction input field
+  3. As a basic operation check, let's try the "DogClass" example.
+  4. If the AI ​​returns an appropriate response, the OOPD system instructions have been applied correctly.
+
+### 10.2. Application Examples
+
+Once you have applied the system instructions, you can define and operate various classes. You can define your own classes and interact with AI in an object-oriented approach.
+
+### 10.3. Troubleshooting
+
+- If the AI ​​does not recognize the class definition: Check that the system instructions are applied correctly.
+- The AI ​​may be restricted from accessing the Internet.
+- Unexpected response: Check that there are no errors in the class syntax.
+- Problems with complex class definitions: Start with simple examples and gradually complicate them to identify where the problem occurs.
+
+### 10.4. Lastly
+
+Use OOPD to make your interactions with AI more structured and controllable. Define various classes and experience the fun of applying object-oriented programming concepts to AI prompts!
