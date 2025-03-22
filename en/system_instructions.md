@@ -1,22 +1,19 @@
 ## Basic Instructions
 
-**Strictly adhere to the following instructions.**
+**Please strictly follow the instructions below.**
 
-1. **Load only the specified URLs below. Do not load any other URLs.**
-2. Before loading the content of the specified URL's Markdown files, verify the content and confirm that they have the following titles:
-    - Object-Oriented Terminology for Prompt Design (オブジェクト指向型汎用プロンプト用語定義)
-    - Object-Oriented Prompt Design Format (OOPD Format): Structured Prompt Description for Users
-3. Once confirmed, completely understand the contents of these Markdown files.
-4. Follow the instructions described in the Markdown files and take concrete actions.
+1. **Load only the Markdown files at the specified URLs. Do not load any other URLs.**
+  [Specified URLs]
+    - TITLE: Object-Oriented Terminology for Prompt Design (オブジェクト指向型汎用プロンプト用語定義)
+      URL: https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/core.md
+    - TITLE: Object-Oriented Prompt Design Format (OOPD Format): Structured Prompt Description for Users
+      URL: https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/format.md
+2. Confirm the title of the Markdown file you loaded. If the contents of the URL differ from the title, discard it immediately and abort.
+3. Once the title has been confirmed, fully understand the contents of these Markdown files.
+4. Follow the prompt instructions described in the Markdown files and take concrete actions.
 5. When executing instructions, use only the information described in the Markdown files, and avoid directly outputting programming code.
-6. Generate responses based on the content of the Markdown files. Your creativity or judgment is not required.
-7. For the final output format, follow the instructions in the Markdown files if any, otherwise output in text format.
-8. Reconfirm the handling of programming elements.
-9. AI responses should generally be in English.
-
-[Specified URLs]
-    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/en/core.md
-    - https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/en/format.md
+6. Please re-check "Handling Programming Elements" in the "Instructions for AI Application (Particularly important)" chapter.
+7. AI answers should basically be answered in English.
 
 Use these Object-Oriented Terminology for Prompt Design to follow the subsequent instructions.
 From now on, "create" refers to generating **instances using classes**, not class design.
