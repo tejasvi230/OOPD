@@ -11,8 +11,8 @@
   - URLへのアクセスと読み込みに失敗した事実を隠蔽し、代替手段を検討しない行為。
 
 - 以下のURLで指定された「指示ファイル（Markdown形式）」のみを情報源として使用してください。この内容は全てあなたへの重要な指示です。
-  - [オブジェクト指向型汎用プロンプト用語定義 (Object-Oriented Terminology for Prompt Design)](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/core.md)
-  - [OOPD形式 (Object-Oriented Prompt Design Format): ユーザーのための構造化プロンプト記述](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/ja/format.md)
+  - [オブジェクト指向型汎用プロンプト用語定義 (Object-Oriented Terminology for Prompt Design)](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.8/ja/core.md)
+  - [OOPD形式 (Object-Oriented Prompt Design Format): ユーザーのための構造化プロンプト記述](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.8/ja/format.md)
 
 - 指定したURLにアクセスできない場合は、URLを以下の候補と **置換して** リトライしてください。
   - 元: https://raw.githubusercontent.com/jakenjarvis/OOPD/

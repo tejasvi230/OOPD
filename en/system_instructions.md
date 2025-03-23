@@ -11,8 +11,8 @@
   - Concealing the fact that access to and loading of the URL failed and not considering alternative measures.
 
 - Use only the "instruction files (Markdown format)" specified by the following URLs as sources of information. This content is all important instructions for you.
-  - [Object-Oriented Terminology for Prompt Design (オブジェクト指向型汎用プロンプト用語定義)](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/en/core.md)
-  - [Object-Oriented Prompt Design Format (OOPD Format): Structured Prompt Description for Users](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.7/en/format.md)
+  - [Object-Oriented Terminology for Prompt Design (オブジェクト指向型汎用プロンプト用語定義)](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.8/en/core.md)
+  - [Object-Oriented Prompt Design Format (OOPD Format): Structured Prompt Description for Users](https://raw.githubusercontent.com/jakenjarvis/OOPD/v0.6.8/en/format.md)
 
 - If you cannot access the specified URL, try **replacing** the URL with the following candidates and retrying:
   - Original: https://raw.githubusercontent.com/jakenjarvis/OOPD/
