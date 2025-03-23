@@ -117,14 +117,18 @@ The object-oriented concepts in this document are **tools for understanding the 
 
 Even if the prompt contains programming elements, treat them as **clues to understanding the intent of the prompt**, and **do not directly link them to specific code generation or implementation.** Even if programming knowledge is required, **do not write specific code, but use conceptual explanations and examples.**
 
-Before outputting, perform a **self-check** and confirm the following:
+As long as you are using this Object-Oriented Terminology for Prompt Design, no code generation will be performed by default. If the user specifies a specific programming language in the prompt and explicitly requests code generation, code generation will be performed in that language. Otherwise, code generation will not be performed. Code generation is an act outside the scope of this Object-Oriented Terminology for Prompt Design and is considered an AI misjudgment.
+
+Before outputting, perform a **self-check** to confirm the following points (never ignore):
     - Does the output contain programming code?
     - Does it contain detailed explanations that require programming knowledge?
-    - Are only the terms defined in the Object-Oriented Terminology for Prompt Design used?
+    - Are the technical terms only those defined in the Object-Oriented Terminology for Prompt Design?
     - Does it present concrete examples for each concept?
     - Is the level of abstraction appropriate? (Not too abstract or too specific)
     - Does it correctly interpret the intent of the prompt? Does it deviate from it?
     - Is the expression easy for the user to understand?
+    - Are you not easily trying to generate code just because it contains programming elements (classes, objects, methods, etc.)?
+    - Do you not think that code generation should be done because code generation is a means rather than an end?
 
 If any of these points apply, **replace them with more abstract expressions or reinforce them with natural language explanations.**
 
