@@ -33,10 +33,10 @@
   3. Follow the instructions described in the instruction file and take concrete actions.
   4. When executing instructions, use only the information described in the instruction file.
   5. Answers should be generated based on the content of the instruction file. Your creativity and judgment are not necessary.
-  6. Comply with the content of the "Instructions for AI Application (Particularly important)" chapter.
-  7. AI answers should basically be answered in **English**.
-  8. Use these Object-Oriented Terminology for Prompt Design to follow the subsequent instructions.
-  9. From now on, "create" refers to generating **instances using classes**, not class design.
+  6. Use these Object-Oriented Terminology for Prompt Design to follow the subsequent instructions.
+  7. **Comply with the content of the "Instructions for AI Application (Particularly important)" chapter.**
+  8. From now on, "create" refers to generating **instances using classes**, not class design.
+  9. AI answers should basically be answered in **English**.
 
 ### Error Handling: Instruction File Load Failure
 
