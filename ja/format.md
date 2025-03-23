@@ -1,4 +1,4 @@
-## OOPD形式 (Object-Oriented Prompt Design形式): ユーザーのための構造化プロンプト記述
+## OOPD形式 (Object-Oriented Prompt Design Format): ユーザーのための構造化プロンプト記述
 
 OOPD形式（Object-Oriented Prompt Design形式）とは、ユーザーが把握しやすく、かつ、AIがプロンプトの意図をより深く理解し、一貫性のある構造化された応答を生成するために、オブジェクト指向プログラミング（OOP）の概念を応用したプロンプト記述形式です。
 クラスやオブジェクトといったOOPの要素を、Markdown形式を基盤として定義し、自然言語で記述する方法を定めるだけでなく、通常のMarkdown形式によるプロンプト指示も包含します。AIに対する指示と構造化された情報の両方を記述できる柔軟な形式です。
